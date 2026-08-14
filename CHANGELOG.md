@@ -28,3 +28,7 @@
 
 \- Added student gender field with a capacity of 10 characters.
 
+\## T-08
+
+\- Added semester information to the Student structure.
+
