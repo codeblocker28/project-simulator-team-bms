@@ -32,3 +32,7 @@
 
 \- Added semester information to the Student structure.
 
+\## T-09
+
+\- Added credit hours information to the Student structure.
+
