@@ -36,3 +36,9 @@
 
 \- Added credit hours information to the Student structure.
 
+\## T-10
+
+\- Added student status field with a capacity of 20 characters.
+
+\- Status can represent values such as Active, Inactive, or Graduated.
+

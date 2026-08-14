@@ -38,3 +38,7 @@ The system now stores the semester of every student.
 
 The system now stores the credit hours completed by every student.
 
+\## Student Status
+
+The system now stores the current status of every student, such as Active, Inactive, or Graduated.
+
