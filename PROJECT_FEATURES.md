@@ -8,5 +8,7 @@ The system now stores the AGE of every students.
 
 The system now stores the CGPA of every students.
 
+\## Student Department
 
+The system now stores the department of every student.
 
