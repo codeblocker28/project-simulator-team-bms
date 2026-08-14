@@ -20,3 +20,7 @@
 
 \- Added phone number field to Student structure.
 
+\## T-06
+
+\- Added student address field with a capacity of 100 characters.
+
