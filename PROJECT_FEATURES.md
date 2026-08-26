@@ -2,6 +2,10 @@
 
 
 
+This document reflects features implemented through Task T-10. Tasks T-11 through T-15 (field capacity improvements and field renames) are not yet implemented in the current Student structure.
+
+
+
 \## Student Age
 
 The system now stores the AGE of every students.
