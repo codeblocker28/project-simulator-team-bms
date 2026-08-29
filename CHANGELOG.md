@@ -2,6 +2,12 @@
 
 
 
+\## Version 1.7
+
+\- Renamed student name field from name to studentName.
+
+
+
 \## Version 1.6
 
 \- Renamed student id field from id to studentId.
