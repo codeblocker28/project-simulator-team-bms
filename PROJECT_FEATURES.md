@@ -2,7 +2,7 @@
 
 
 
-This document reflects features implemented through Task T-14. Task T-15 (student name field rename) is not yet implemented in the current Student structure.
+This document reflects features implemented through Task T-15. All planned Student structure tasks (T-01 through T-15) are now complete.
 
 
 
@@ -61,4 +61,8 @@ The maximum length of the student phone number field has been increased from 20 
 \## Renamed Student ID
 
 The student id field has been renamed from id to studentId for clarity.
+
+\## Renamed Student Name
+
+The student name field has been renamed from name to studentName.
 
