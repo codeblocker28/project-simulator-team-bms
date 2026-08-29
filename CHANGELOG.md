@@ -2,6 +2,12 @@
 
 
 
+\## Version 1.3
+
+\- Increased student name field capacity from 50 to 100 characters.
+
+
+
 \## Version 1.2
 
 \- Added student gender field with a capacity of 10 characters.
