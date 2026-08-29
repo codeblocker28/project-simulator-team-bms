@@ -50,3 +50,7 @@ The system now stores the current status of every student, such as Active, Inact
 
 The maximum length of the student name field has been increased from 50 to 100 characters.
 
+\## Improved Address Capacity
+
+The maximum length of the student address field has been increased from 100 to 200 characters.
+

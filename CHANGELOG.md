@@ -2,6 +2,12 @@
 
 
 
+\## Version 1.4
+
+\- Increased student address field capacity from 100 to 200 characters.
+
+
+
 \## Version 1.3
 
 \- Increased student name field capacity from 50 to 100 characters.
