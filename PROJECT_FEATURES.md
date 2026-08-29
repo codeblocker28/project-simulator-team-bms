@@ -46,3 +46,7 @@ The system now stores the credit hours completed by every student.
 
 The system now stores the current status of every student, such as Active, Inactive, or Graduated.
 
+\## Improved Name Field
+
+The maximum length of the student name field has been increased from 50 to 100 characters.
+
