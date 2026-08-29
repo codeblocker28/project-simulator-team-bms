@@ -2,7 +2,7 @@
 
 
 
-This document reflects features implemented through Task T-13. Tasks T-14 and T-15 (field renames) are not yet implemented in the current Student structure.
+This document reflects features implemented through Task T-14. Task T-15 (student name field rename) is not yet implemented in the current Student structure.
 
 
 
@@ -57,4 +57,8 @@ The maximum length of the student address field has been increased from 100 to 2
 \## Improved Phone Number Capacity
 
 The maximum length of the student phone number field has been increased from 20 to 25 characters.
+
+\## Renamed Student ID
+
+The student id field has been renamed from id to studentId for clarity.
 
