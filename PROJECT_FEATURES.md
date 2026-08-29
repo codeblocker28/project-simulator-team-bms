@@ -2,7 +2,7 @@
 
 
 
-This document reflects features implemented through Task T-10. Tasks T-11 through T-15 (field capacity improvements and field renames) are not yet implemented in the current Student structure.
+This document reflects features implemented through Task T-13. Tasks T-14 and T-15 (field renames) are not yet implemented in the current Student structure.
 
 
 
@@ -53,4 +53,8 @@ The maximum length of the student name field has been increased from 50 to 100 c
 \## Improved Address Capacity
 
 The maximum length of the student address field has been increased from 100 to 200 characters.
+
+\## Improved Phone Number Capacity
+
+The maximum length of the student phone number field has been increased from 20 to 25 characters.
 
